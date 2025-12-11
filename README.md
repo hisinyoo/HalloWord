@@ -66,21 +66,6 @@ VS Code
 
 Postman
 
-📞 Kontak Saya
-
-📧 Email: aditarsyil31@gmail.com
-📱 WhatsApp: 083151721579
-🌍 Website Perusahaan (nanti bisa ditambahkan link)
-
-🎨 Logo Perusahaan
-
-Kamu bisa menambahkan logo ini di profil GitHub:
-
-<img src="LINK-LOGO-GITHUB" width="200">
-
-
-(gambar bisa kamu upload ke GitHub lalu gunakan link-nya)
-
 🌟 Motto Perusahaan
 "Igniting Ideas, Building Digital Futures."
 🧑‍💻 Portofolio
